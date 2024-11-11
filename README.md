@@ -1,5 +1,24 @@
 # 👨‍💻 About Me:
-Hi! I'm **Md Atikur Rahman Shanta**, a passionate and dedicated **Front-End Developer** with experience in creating clean, user-focused web applications. I’m constantly learning and expanding my skills to build robust and visually appealing interfaces.
+Hi! I'm **Md Atikur Rahman Shanta**, a dedicated and aspiring **Front-End Developer** with a background in accounting and teaching. I have a passion for crafting clean, responsive, and user-friendly web applications. With a foundation in management studies and an expanding skill set in web development, I'm always eager to learn and embrace new challenges.
+
+### 🎓 Education & Work Experience
+- **Education**: Pursuing SSC, HSC, Honors, and Masters in **Management** from Gurudayal Govt College
+- **Current Role**: Trainee Accountant at **Al Jamiatul Imdadia**
+- **Past Experience**:
+  - Former Accountant at **Basic Agrovet**
+  - Former Teacher at **Al Jamiatul Imdadia Majhahirul Ulum**
+
+### 🚀 Skills & Development
+- **Front-End Development**: HTML, CSS, JavaScript, basic React.js, and Next.js
+- **Back-End Skills**: Familiar with Node.js and MongoDB
+- **Tools & Libraries**: 
+  - UI libraries like **DaisyUI** and **Tailwind CSS**
+  - Auth management with **JWT**
+  - Real-time database and hosting with **Firebase**
+  - Deployment on **Vercel**
+- **Problem-Solving**: Quick to troubleshoot and resolve coding challenges, often leveraging resources like Google to find solutions
+
+I’m currently expanding my expertise in React.js, Next.js, and backend technologies to become a more versatile front-end developer.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atik.ahmed.75054) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-atikur-rahman-shanta-88a182241) 
@@ -29,6 +48,7 @@ Hi! I'm **Md Atikur Rahman Shanta**, a passionate and dedicated **Front-End Deve
 
 [![](https://visitcount.itsvg.in/api?id=atik2788&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
 
 
 
