@@ -40,7 +40,7 @@ I’m currently expanding my expertise in React.js, Next.js, and backend technol
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atik2788&theme=dark&hide_border=false&include_all_commits=false&count_private=true&bg_color=60effc)<br/>
+![](https://github-readme-stats.vercel.app/api?username=atik2788&theme=dark&hide_border=false&include_all_commits=false&count_private=true&bg_color=00000)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atik2788&theme=white&hide_border=false&bg_color=000000)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atik2788&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=000000)
 
