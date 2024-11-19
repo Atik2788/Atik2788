@@ -29,7 +29,7 @@ I’m currently expanding my expertise in React.js, Next.js, and backend technol
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atik2788&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff9429)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=atik2788&theme=white&hide_border=false&bg_color=00000&ring=ff9429&fire=ff9429)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=atik2788&theme=white&hide_border=false&border=ff9429&bg_color=000000&ring=ff9429&fire=ff9429)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atik2788&theme=dark&bg_color=000000&title_color=ff9429)
 
 
