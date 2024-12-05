@@ -20,6 +20,16 @@ Hi! I'm **Md Atikur Rahman Shanta**, a dedicated and aspiring **Front-End Develo
 
 I’m currently expanding my expertise in React.js, Next.js, and backend technologies to become a more versatile front-end developer.
 
+---
+
+### ✨ Current Interests:
+- Learning advanced **JavaScript problem-solving** to build custom utility functions like Lodash.  
+- Improving design skills to craft professional web interfaces, including **portfolio enhancements**.  
+- Exploring **GitHub Actions** for automation in CI/CD pipelines.  
+- Building a portfolio-ready **modern video slider with looping and progress indicators**.
+
+---
+
 ## 🌐 Socials:  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atik.ahmed.75054) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-atikur-rahman-shanta-88a182241)
 
@@ -36,4 +46,3 @@ I’m currently expanding my expertise in React.js, Next.js, and backend technol
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
