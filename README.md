@@ -61,8 +61,9 @@ Hi! I'm **Md. Atikur Rahman Shanta**, a dedicated and aspiring **Front-End Devel
 ---
 
 ## 📊 GitHub Stats:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atik2788&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff9429)  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atik2788&theme=dark&hide_border=false&border=ff9429&border_radius=5&bg_color=000000&ring=ff9429&fire=ff9429)  
 
-| GitHub Stats | Streak Stats | Profile Summary |
-|--------------|--------------|-----------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atik2788&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff9429) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atik2788&theme=dark&hide_border=false&border=ff9429&border_radius=5&bg_color=000000&ring=ff9429&fire=ff9429) | ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atik2788&theme=dark&bg_color=000000&title_color=ff9429) |
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atik2788&theme=dark&bg_color=000000&title_color=ff9429)  
+
 
