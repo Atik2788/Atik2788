@@ -61,7 +61,7 @@ Hi! I'm **Md. Atikur Rahman Shanta**, a dedicated and aspiring **Front-End Devel
 ---
 
 ### 📊 Most Used Languages:
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atik2788&langs_count=8&layout=compact&hide_border=false&title_color=ff9429&text_color=ffffff&bg_color=000000)](https://github.com/atik2788/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atik2788&layout=compact&langs_count=8&hide=html&hide_border=true&title_color=ff9429&text_color=ffffff&bg_color=000000)](https://github.com/atik2788/github-readme-stats)
 
 
 ---
