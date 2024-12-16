@@ -60,9 +60,10 @@ Hi! I'm **Md. Atikur Rahman Shanta**, a dedicated and aspiring **Front-End Devel
 
 ---
 
-## 📊 Language Usage:  
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atik2788&theme=dark&bg_color=000000&title_color=ff9429)](https://github.com/atik2788)
-[![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atik2788&theme=dark&bg_color=000000&title_color=ff9429)](https://github.com/atik2788)
+## 📊 Language Usage:
+- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+- **HTML**: ![HTML](https://img.shields.io/badge/HTML-60%25-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- **CSS**: ![CSS](https://img.shields.io/badge/CSS-40%25-%23F7DF1E?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ---
