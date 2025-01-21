@@ -1,4 +1,4 @@
-# 🙋‍♂️ About Me:
+
 Hi! I'm **Md. Atikur Rahman Shanta**, a dedicated and aspiring **Front-End Developer** with a background in accounting and teaching. I have a passion for crafting clean, responsive, and user-friendly web applications. With a foundation in management studies and an expanding skill set in web development, I’m always eager to learn and embrace new challenges.
 
 ---
