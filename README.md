@@ -13,6 +13,19 @@ Hi! I'm **Md. Atikur Rahman Shanta**, a dedicated and aspiring **Front-End Devel
   - Teacher at **Al Jamiatul Imdadia Majhahirul Ulum**
 
 ---
+### 🚀 Skills & Technologies
+- **Front-End Development**:  
+  HTML, CSS, JavaScript, React.js, and Next.js  
+- **Back-End Skills**:  
+  Familiarity with Node.js and MongoDB  
+- **Tools & Libraries**:  
+  - UI libraries like **DaisyUI** and **Tailwind CSS**  
+  - Auth management with **JWT**  
+  - Real-time database and hosting with **Firebase**  
+  - Deployment on **Vercel**  
+- **Other Skills**:  
+  Problem-solving, troubleshooting, and leveraging tools like Google for quick solutions.
+
 
 
 ---
