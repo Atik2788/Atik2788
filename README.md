@@ -15,7 +15,7 @@ Hi! I'm **Md. Atikur Rahman Shanta**, a dedicated and aspiring **Front-End Devel
 ---
 ### 🚀 Skills & Technologies
 - **Front-End Development**:  
-  HTML, CSS, JavaScript, React.js, and Next.js  
+  HTML, CSS, JavaScript, TypeScript, React.js, and Next.js  
 - **Back-End Skills**:  
   Familiarity with Node.js and MongoDB  
 - **Tools & Libraries**:  
